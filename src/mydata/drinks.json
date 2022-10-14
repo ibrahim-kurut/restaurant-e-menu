@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "drinkName": "coca cola",
+        "img": "https://thumbs.dreamstime.com/b/puede-y-el-vidrio-de-coca-cola-con-hielo-en-fondo-de-madera-80533589.jpg",
+        "discription": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero",
+        "price": 1.5
+    },
+    {
+        "id": 2,
+        "drinkName": "green lemon",
+        "img": "https://img-global.cpcdn.com/recipes/8a51c76ef36c92c1/1200x630cq70/photo.jpg",
+        "discription": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero",
+        "price": 3
+    },
+    {
+        "id": 3,
+        "drinkName": "Natural juice",
+        "img": "https://i0.wp.com/modo3.com/thumbs/fit630x300/81172/1466648381/%D8%A3%D9%81%D8%B6%D9%84_%D8%B9%D8%B5%D9%8A%D8%B1_%D8%B7%D8%A8%D9%8A%D8%B9%D9%8A.jpg",
+        "discription": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero",
+        "price": 2
+    },
+    {
+        "id": 4,
+        "drinkName": "hot drink",
+        "img": "https://images.akhbarelyom.com/images/images/large/20210105231229369.jpg",
+        "discription": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero",
+        "price": 2.5
+    }
+]

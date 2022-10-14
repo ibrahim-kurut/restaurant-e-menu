@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "foodName": "shawrma",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/0d/01/bc/ea/1474204140647-largejpg.jpg",
+        "discription": "porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+        "price": 2
+    },
+    {
+        "id": 2,
+        "foodName": "lahmacun",
+        "img": "https://media-cdn.tripadvisor.com/media/photo-s/19/a7/ca/98/fb-img-1571261912780.jpg",
+        "discription": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+        "price": 1
+    },
+    {
+        "id": 3,
+        "foodName": "spaysi chicken",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWpCgPNSMXVd_N4mtGvkOSgLj9vwKsv2Ap__oS7Drl9S4ghMecGxYIrqcI1gpSTwld7RQ&usqp=CAU",
+        "discription": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+        "price": 3
+    },
+    {
+        "id": 4,
+        "foodName": "hamburger",
+        "img": "https://winedharma.com/wine-dharma/uploads/2020/10/687-hamburger-americano-ricetta-classica-con-ingredienti-e-tempi-cottura-panino-perfetto.jpg",
+        "discription": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+        "price": 5
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "sweetName": "Ghevar",
+        "img": "https://www.cookforindia.com/wp-content/uploads/2016/08/ghevar.jpg",
+        "discription": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero",
+        "price": 1.5
+    },
+    {
+        "id": 2,
+        "sweetName": "Rasmalai",
+        "img": "https://s3-ap-south-1.amazonaws.com/betterbutterbucket-silver/tamali-rakshit20181030010222613.jpeg",
+        "discription": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero",
+        "price": 3
+    },
+    {
+        "id": 3,
+        "sweetName": "Patishapta Strawberry",
+        "img": "https://i.ndtvimg.com/i/2018-01/patishapta-with-strawberry-coulis_620x330_61515648956.jpg",
+        "discription": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero",
+        "price": 2
+    },
+    {
+        "id": 4,
+        "sweetName": "Kulfi",
+        "img": "https://static.toiimg.com/thumb/84786580.cms?width=1200&height=900",
+        "discription": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero",
+        "price": 2.5
+    }
+]
